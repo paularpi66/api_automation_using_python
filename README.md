@@ -54,7 +54,7 @@ cd api-automation
   pytest -v
 ```
   
-## Features
+# Features
   . CRUD operation test cases
 
   . Status code and response validation
