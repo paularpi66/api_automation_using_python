@@ -4,7 +4,7 @@ This repository contains automated tests for API endpoints using Python. The goa
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **Python 3.x**
 - **Requests** – For sending HTTP requests
@@ -13,7 +13,7 @@ This repository contains automated tests for API endpoints using Python. The goa
 - **JSON** – For request/response body handling
 
 
-## 📁 Project Structure
+##  Project Structure
 ```bash
 api-automation/
 │
