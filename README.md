@@ -4,7 +4,7 @@ This repository contains automated tests for API endpoints using Python. The goa
 
 ---
 
-##  Technologies Used
+#  Technologies Used
 
 - **Python 3.x**
 - **Requests** – For sending HTTP requests
@@ -13,7 +13,7 @@ This repository contains automated tests for API endpoints using Python. The goa
 - **JSON** – For request/response body handling
 
 
-##  Project Structure
+#  Project Structure
 ```bash
 api-automation/
 │
@@ -32,9 +32,9 @@ api-automation/
 
 ---
 
-##  How to Run
+#  How to Run
 
-### 1. Clone the repository
+### Clone the repository
 
 
 git clone https://github.com/your-username/api-automation.git
@@ -43,24 +43,18 @@ cd api-automation
 ```
 
  
-# Install dependencies
+## Install dependencies
 
  ```bash
   pip install -r requirements.txt
 ```
 
-# Run tests using Pytest
+## Run tests using Pytest
 ```bash
   pytest -v
 ```
   
-# (Optional) Generate Allure Report
-```bash
-  pytest --alluredir=reports/
-  allure serve reports/
-```
-
-# Features
+## Features
   . CRUD operation test cases
 
   . Status code and response validation
